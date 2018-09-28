@@ -1,0 +1,3 @@
+﻿  WinBluetoothLE.cpp
+d:\progettist\winbluetoothle\winbluetoothle\winbluetoothle.cpp(426): warning C4018: '<': errata corrispondenza tra signed e unsigned
+  WinBluetoothLE.vcxproj -> D:\progettist\WinBluetoothLE\x64\Debug\WinBluetoothLE.exe
